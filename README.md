@@ -58,14 +58,12 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3owg5bvzdjzeyzbfl3zc75o6q)
 
-###
-
-<img src="https://raw.githubusercontent.com/Keod0/Keod0/output/snake.svg" alt="Snake animation" />
-
-###
 <div align="center">
-  <img height="200" src="https://imgflip.com/i/3cf7q4"  />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3owg5bvzdjzeyzbfl3zc75o6q)
 </div>
+
+###
+
+###
 
