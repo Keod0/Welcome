@@ -1,16 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, tudo bem?👋</h1>
+<h1 align="left">Hello, Wat´s up?👋</h1>
+###
+
+<p align="left">My name is Rafael and I'm a cybertech amatour and coder (newbie dev). Aprendice coder and data analyst from Portugal😊</p>
+<p align="left">Olá! , o meu nome é Rafael, sou um amador de cybertech e hacking. Coder aprendiz e Data Analyst e um futuro dev!😊 Sou de Portugal</p>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h2 align="left">Acerca de mim: Sou de trás-dos-montes e no momento estudo data analysis</h2>
+<h2 align="left">About me: Im from trás-dos-montes and in the moment im foccusing on data analysis</h2>
+<h2 align="left">Im wishing to become an full-stack dev! and more!</h2>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning data analysis<br>🎯 Goals: Full-Stack Dev<br>🎲 Fun fact: do repairs in tech as hobby</p>
 
 ###
 
