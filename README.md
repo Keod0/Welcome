@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">About me: Im from trás-dos-montes and in the moment im foccusing on data analysis</h2>
+<h2 align="left">About me: Im from Sao Joao da Pesqueira and in the moment im foccusing on data analysis</h2>
 <h2 align="left">Im wishing to become an full-stack dev! and more!</h2>
 
 ###
