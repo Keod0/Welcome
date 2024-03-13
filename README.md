@@ -54,6 +54,7 @@
 </div>
 
 ###
+<h2 align="left">I code and:</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Keod0/count.svg?"  />
