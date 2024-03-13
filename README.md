@@ -37,3 +37,4 @@
 </div>
 
 ###
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=3owg5bvzdjzeyzbfl3zc75o6q&width={width})
