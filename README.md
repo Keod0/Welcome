@@ -11,8 +11,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning data analysis<br>🎯 Goals: Full-Stack Dev<br>🎲 Fun fact: do repairs in tech as hobby</p>
-
 ###
 
 <h2 align="left">I code and work with:</h2>
