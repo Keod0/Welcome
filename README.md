@@ -6,6 +6,7 @@
 ###
 
 <h2 align="left">About me: Im from Sao Joao da Pesqueira and in the moment im foccusing on data analysis</h2>
+<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning data analysis<br>🎯 Goals: Full-Stack Dev<br>🎲 Fun fact: do repairs in tech as hobby</p>
 <h2 align="left">Im wishing to become an full-stack dev! and more!</h2>
 
 ###
