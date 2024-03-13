@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code and work with:</h2>
 
 ###
 
@@ -59,9 +59,9 @@
 
 ###
 
-<div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3owg5bvzdjzeyzbfl3zc75o6q)
-</div>
+
+          ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3owg5bvzdjzeyzbfl3zc75o6q)
+
 
 ###
 
